@@ -1,0 +1,31 @@
+{
+  "name": "github-profiles",
+  "homepage": "https://github.com/adellanno/github-profiles",
+  "authors": [
+    "adellanno <anthony@dellanno.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7"
+  }
+}
